@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script makes a request to 0.0.0.0:5000/catch_me that gets the response message "You got me!".
+# This script makes a request to 0.0.0.0:5000/catch_me that gets the response message "You find me!".
 
 # -s: Silent mode (don't show progress)
 # -L: Follow redirects
